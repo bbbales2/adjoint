@@ -1,0 +1,6 @@
+Adjoint sensitivity analysis following:
+"Fast derivatives of likelihood functionals for ODE based models using adjoint-state method" https://arxiv.org/pdf/1606.04406.pdf
+and
+"FATODE: A library for forward, adjoint, and tangent linear integration of ODEs" http://www.mcs.anl.gov/~hongzh/papers/SISC_FATODE_final.pdf
+
+that interfaces with the Stan Math library (https://arxiv.org/pdf/1509.07164.pdf, mc-stan.org)
